@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="TEC.INFORMATICA (525).jpg" alt="Foto de Perfil - Ryan Charles" width="150" style="border-radius:50%;"/>
+  <img src="TEC.INFORMATICA (525).jpg" alt="Foto de Perfil - Ryan Charles" width="150" style="border-radius:100%;"/>
 </p>
 
 ### 👋 Olá! Eu sou o Ryan Charles
