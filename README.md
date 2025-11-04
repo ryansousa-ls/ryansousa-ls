@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="Design sem nome-Photoroom.png" alt="Foto de Perfil - Ryan Charles" width="500"/>
-</p>
-
 ### 👋 Olá! Eu sou o Ryan Charles
 
 <p align="left">
